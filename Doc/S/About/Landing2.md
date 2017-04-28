@@ -6,17 +6,20 @@ Logo=<img src="image/cmacc-trans.png" style="width:35%" />
 
 Site.Name=CommonAccord.Org
 
-Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td>   </td><td valign="top"><b>Some Links:</b><br><a name="unchain-the-chain" title="financialcryptography.com" href="http://financialcryptography.com/mt/archives/001556.html"><img alt="Ian Grigg - Ricardian Contracts" src="https://pbs.twimg.com/media/CfJnq7BXIAEWwgm.jpg:small"></a><br><a href="https://cmacc-slack-add.herokuapp.com/">join commonaccord.slack.com</a><br>{TwitterBlock.sec}<br><br><b><a href="https://github.com/CommonAccord/Cmacc-Org/commits/master">Latest Activity on GitHub</a></b><br><br>{DocumentsFolder.sec}<br>{SubjectIndex.Sec}<br>{RecentWork.Sec}</td></tr></table>
+Content.Sec=<table><tr><td width="50%">{Intro.Sec}</td><td> </td><td valign="top"><b>Some Links:</b><br><a name="unchain-the-chain" title="financialcryptography.com" href="http://financialcryptography.com/mt/archives/001556.html"><img alt="Ian Grigg - Ricardian Contracts" src="https://pbs.twimg.com/media/CfJnq7BXIAEWwgm.jpg:small"></a><br><a href="https://cmacc-slack-add.herokuapp.com/">join commonaccord.slack.com</a><br>{TwitterBlock.sec}<br><br><b><a href="https://github.com/CommonAccord/Cmacc-Org/commits/master">Latest Activity on GitHub</a></b><br><br>{DocumentsFolder.sec}<br>{SubjectIndex.Sec}<br>{RecentWork.Sec}</td></tr></table>
 
 Intro.Sec={Introduction.sec}<br><br>{SiteLinks.Sec}
 
-Introduction.sec=<b>Overview:</b><ul><li>{Slack.sec} &emsp; {Blog.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
+Introduction.sec=<b>Overview:</b><ul><li>{SSRN.sec}<li>{Slack.sec} &emsp; {Blog.sec}<li>{CmAQuick.sec}<li>{CmAbqc.sec}<li>{Codification.sec}<li>{Code-ification.sec}</ul>
 
 CmAQuick.sec=CommonAccord is an initiative to create global codes of legal transacting by codifying and automating legal documents, including contracts, permits, organizational documents, and consents.  We anticipate that there will be codes for each jurisdiction, in each language.  For international dealings and coordination, there will be at least one "global" code.  {CDL.Link} 
 
 CmAbqc.sec=One proposed implementation of CommonAccord is a universal bank account that would allow people to manage in a portable account all types of transactions rather than just payments. Examples of how it would look like can be found here: {Bqc.Link}. An interview explaining the concept can be found here (in French - minute 24.21): {BfmPodcast.Link}.
 
 Conference.sec=We are co-organizing a conference at MIT Media Lab - May 23-24: <a href="https://docs.google.com/document/d/1nG78OfVcCfI_WtxpLlz5Y_8wyTaksGl9jKGCKz0aSxo/edit#">Conference Program</a>
+
+SSRN.sec=<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2925871">Wise Contracts: Smart Contracts that Work for People and Machines</a>
+
 
 Slack.sec=<a href="https://cmacc-slack-add.herokuapp.com/">Join our Slack group!</a>
 
